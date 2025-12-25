@@ -26,7 +26,7 @@ This layout is suitable for:
 - Portfolio UI/UX demonstrations
 
 ## Live Demo
- https://oladejokhadijat1999-a11y.github.io/feature-selection/
+ https://atupcy-dev.github.io/feature-selection/
 
 ## Author
 Built as part of a front-end development portfolio project.
